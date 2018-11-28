@@ -10,7 +10,8 @@ This project contains the implementation of the Q-Learning Algorithm in TensorFl
 
 ### Results using numpy
 
-** FrozenLake-v0 **
+**FrozenLake-v0**
+<br/><br/>
 ![qtable frozenlake-v0](https://user-images.githubusercontent.com/26242097/49160789-8a1d2f80-f34d-11e8-8ff1-c5f78885df78.png)
 
 ### Results using TensorFlow
