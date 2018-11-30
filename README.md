@@ -6,7 +6,7 @@ This project contains the implementation of the Q-Learning Algorithm in TensorFl
 
 1. Using numpy | [Link to notebook](https://github.com/iArunava/Q-Learning/blob/master/Q-Learning%20in%20Numpy.ipynb)
 2. Using Tensorflow | [Link to notebook](https://github.com/iArunava/Q-Learning/blob/master/Q-Learning%20in%20TensorFlow.ipynb)
-3. Using PyTorch | [Link to notebook](https://github.com/iArunava/Q-Learning/blob/master/Q-Learning%20in%20PyTorch.ipynb)
+3. Using PyTorch | [Link to notebook](https://github.com/iArunava/Q-Learning/blob/master/Q-Learning%20with%20PyTorch.ipynb)
 
 ### Results using numpy
 
